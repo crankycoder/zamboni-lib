@@ -205,3 +205,6 @@
 [submodule "src/celery-tasktree"]
 	path = src/celery-tasktree
 	url = git://github.com/NetAngels/celery-tasktree.git
+[submodule "src/metlog-py"]
+	path = src/metlog-py
+	url = git://github.com/mozilla-services/metlog-py.git
